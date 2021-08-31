@@ -21,5 +21,6 @@ Implemented in the Loadash.js file.
 
 ### This is a simple styling exercise.
 ## Design specifications for this can be found within the zip file supplied. The task is to create a simple card component with a heading, some copy, buttons and links.
+Implemented in `CardDesign` Component.
 
-Used Material UI.
+Used `Material UI`.
